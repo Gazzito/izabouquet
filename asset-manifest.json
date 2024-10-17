@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/izabouquet/static/css/main.f855e6bc.css",
+    "main.js": "/izabouquet/static/js/main.46659744.js",
+    "static/js/453.cc83f90d.chunk.js": "/izabouquet/static/js/453.cc83f90d.chunk.js",
+    "static/media/logo.svg": "/izabouquet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/izabouquet/index.html",
+    "main.f855e6bc.css.map": "/izabouquet/static/css/main.f855e6bc.css.map",
+    "main.46659744.js.map": "/izabouquet/static/js/main.46659744.js.map",
+    "453.cc83f90d.chunk.js.map": "/izabouquet/static/js/453.cc83f90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.46659744.js"
+  ]
+}
